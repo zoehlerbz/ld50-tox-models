@@ -1,4 +1,4 @@
-# Modelos ANN preditivos de LD<sub>50</sub>
+# Resultados complementares - doutorado PPGBB
 
 Este projeto utiliza Redes Neurais Artificiais (ANNs) para prever a toxicidade aguda (LD<sub>50</sub>) de compostos químicos em diferentes espécies e rotas de administração, com base em dados obtidos do banco de dados [TOXRIC](https://toxric.bioinforai.tech/home).
 
